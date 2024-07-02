@@ -11,7 +11,6 @@ import ListGroup from "react-bootstrap/ListGroup";
 class App extends Component { 
 	constructor(props) { 
 		super(props); 
-
 		this.state = { 
 			userInput: "", 
 			list: [], 
